@@ -30,6 +30,6 @@ npm start
 * [Firebase](https://firebase.google.com/)
 
 ## Resources used to troubleshoot deployment
-[Medium Article](https://medium.com/@bensigo/hosting-your-react-app-with-firebase-hosting-add1fa08c214)
-[StackOverflow](https://stackoverflow.com/questions/52939427/react-router-doesnt-route-traffic-when-hosted-on-firebase)
+* [Medium Article](https://medium.com/@bensigo/hosting-your-react-app-with-firebase-hosting-add1fa08c214)
+* [StackOverflow](https://stackoverflow.com/questions/52939427/react-router-doesnt-route-traffic-when-hosted-on-firebase)
 
