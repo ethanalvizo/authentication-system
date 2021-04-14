@@ -9,7 +9,7 @@ A React + Firebase app that acts as a proper authenthication/login system. This 
 git clone https://github.com/ethanalvizo/authenthication-system.git
 cd dev
 ```
-Create a '.env.local' file in the root directory with this inside and fill in the variables from youre firebase config
+Create a '.env.local' file in the root directory with this inside and fill in the variables with the info from your firebase config
 ```
 REACT_APP_FIREBASE_API_KEY=
 REACT_APP_FIREBASE_AUTH_DOMAIN_KEY=
