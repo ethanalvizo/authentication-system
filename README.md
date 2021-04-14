@@ -1,6 +1,6 @@
 # Authenthication System
 
-A React + Firebase app that acts as a proper authenthication/login system. This allows users to signup with their own credentials and even update it later if needed. The application is also using Firebase hosting.
+A React + Firebase app that acts as a proper authentication/login system. This allows users to signup with their own credentials and even update it later if needed. The application is also using Firebase hosting.
 
 [Live Demo](https://auth-dev-27e8b.web.app/).
 
