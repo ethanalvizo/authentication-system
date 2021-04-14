@@ -41,11 +41,11 @@ export default function Signup() {
                 <Form onSubmit={handleSubmit}>
                     <Form.Group id="email">
                         <Form.Label>Email</Form.Label>
-                        <Form.Control type="email" ref={emailRef} require />
+                        <Form.Control type="email" ref={emailRef} required />
                         <Form.Label>Password</Form.Label>
-                        <Form.Control type="password" ref={passwordRef} require />
+                        <Form.Control type="password" ref={passwordRef} required />
                         <Form.Label>Confirm Password</Form.Label>
-                        <Form.Control type="password" ref={passwordConfirmRef} require />
+                        <Form.Control type="password" ref={passwordConfirmRef} required />
                     </Form.Group>
                     <Button disabled={loading} className="w-100" type="submit">Sign Up</Button>
                 </Form>
